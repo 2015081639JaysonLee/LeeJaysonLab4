@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeeJaysonLab3</string>
+    <string name="Ateneo">Ateneo de Manila University</string>
+    <string name="loc">Location:</string>
+    <string name="distance">Distance:</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="address">Katipunan Ave, Quezon City, 1108 Metro Manila</string>
+    <string name="distanceValue">14.6 Km</string>
+    <string name="imgDesc">Overview pic of Ateneo</string>
+</resources>
